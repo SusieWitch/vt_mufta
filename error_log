@@ -1,0 +1,6 @@
+[21-Apr-2018 13:01:23 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/c5271/public_html/mufta/mail.php on line 29
+[21-Apr-2018 13:09:51 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/c5271/public_html/mufta/mail.php on line 29
+[21-Apr-2018 16:32:09 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/c5271/public_html/mufta/mail.php on line 29
+[21-Apr-2018 16:33:56 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/c5271/public_html/mufta/mail.php on line 29
+[21-Apr-2018 16:34:25 Europe/Moscow] PHP Parse error:  syntax error, unexpected ''</p>' (T_CONSTANT_ENCAPSED_STRING) in /home/c5271/public_html/mufta/mail.php on line 31
+[21-Apr-2018 17:09:44 Europe/Moscow] PHP Parse error:  syntax error, unexpected ';' in /home/c5271/public_html/mufta/mail.php on line 17

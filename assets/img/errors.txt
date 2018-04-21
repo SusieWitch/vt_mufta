@@ -1,0 +1,2 @@
+[2018-03-31 11:28:23] layer "link.png": Duplicate path: link.png
+[2018-03-31 11:28:23] layer "E-mail: saif08@mail.ru": Unsupported extension: ru
